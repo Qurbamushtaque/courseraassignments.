@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+ 
+
+}
+.container{
+  position: relative;
+  top:60px;
+  margin:15px;
+
+}
+.row{
+  width:100%
+}
+.title{
+  text-align: center;
+  margin-bottom:30px;
+}
+*{
+  box-sizing: content-box;
+}
+.width{
+  width: 100%;
+}
+#one{
+  background-color:purple;
+}
+.floatone{
+  float: right;
+  border:1px solid black;
+  margin-top:0px;
+
+}
